@@ -16,4 +16,4 @@ Modern Portfolio Theory proposes that investors can optimize their portfolios by
 
 ## How to Use
 
-Run the provided Python script to generate a simulation of various portfolios and visualize the efficient frontier. You can modify the code to use your own data (number of simulated portfolios, assets, observations)and further explore portfolio optimization strategies.
+Run the provided Python script to generate a simulation of various portfolios and visualize the efficient frontier. You can modify the code to use your own data (number of simulated portfolios, assets, observations) and further explore portfolio optimization strategies.
